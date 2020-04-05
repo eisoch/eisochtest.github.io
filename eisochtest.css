@@ -5,9 +5,14 @@
 	src: url("fonts/WOFF/Cambria.woff")
 }
 */
+@font-face
+{
+	font-family: 'BabelStone Han PUA';
+	src: url("font/BabelStoneHanPUA.woff")
+}
 body
 {
-	font-family: Cambria;
+	/*font-family: Cambria;*/
 	margin: 10px 100px 15px 100px;
 }
 h1
@@ -28,6 +33,15 @@ p.a
 }
 p.t
 {
+	color: #000000;
+	margin-bottom: 20px;
+	text-align: left;
+	font-size: 23pt;
+	line-height: 130%;
+}
+p.pua
+{
+	font-family: 'BabelStone Han PUA';
 	color: #000000;
 	margin-bottom: 20px;
 	text-align: left;
