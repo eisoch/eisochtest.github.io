@@ -1,0 +1,36 @@
+@charset "utf-8";
+/*
+@font-face {
+	font-family: Cambria;
+	src: url("fonts/WOFF/Cambria.woff")
+}
+*/
+body
+{
+	font-family: Cambria;
+	margin: 10px 100px 15px 100px;
+}
+h1
+{
+	color: #872D2F;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 30pt;
+	line-height: 120%;
+}
+p.a
+{
+	color: #4F4F4F;
+	margin-left: 20px;
+	text-align: left;
+	font-size: 20pt;
+	line-height: 100%;
+}
+p.t
+{
+	color: #000000;
+	margin-bottom: 20px;
+	text-align: left;
+	font-size: 23pt;
+	line-height: 130%;
+}
