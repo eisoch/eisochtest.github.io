@@ -7,7 +7,7 @@
 */
 @font-face
 {
-	font-family: 'BabelStone Han PUA';
+	font-family: BabelStoneHanPUA;
 	src: url("font/BabelStoneHanPUA.woff")
 }
 body
@@ -41,7 +41,7 @@ p.t
 }
 p.pua
 {
-	font-family: 'BabelStone Han PUA';
+	font-family: BabelStoneHanPUA;
 	color: #000000;
 	margin-bottom: 20px;
 	text-align: left;
