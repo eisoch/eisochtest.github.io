@@ -1,0 +1,16 @@
+@charset "utf-8";
+@font-face
+{
+	font-family: BabelStoneHanPUA;
+	src: url("font/BabelStoneHanPUA.woff")
+}
+t
+{
+	font-family: BabelStoneHanPUA;
+	color: #872D2F;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 30pt;
+	line-height: 120%;
+	display: block;
+}
