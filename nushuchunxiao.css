@@ -1,0 +1,33 @@
+@charset "utf-8";
+@font-face
+{
+	font-family: NotoTraditionalNushu-Bold;
+	src: url("font/NotoTraditionalNushu-Bold.woff")
+}
+@font-face
+{
+	font-family: NotoTraditionalNushu-Regular;
+	src: url("font/NotoTraditionalNushu-Regular.woff")
+}
+@font-face
+{
+	font-family: NotoTraditionalNushu-Light;
+	src: url("font/NotoTraditionalNushu-Light.woff")
+}
+doc
+{
+	display: block;
+	font-size: 20pt;
+}
+light
+{
+	font-family: NotoTraditionalNushu-Light;
+}
+regular
+{
+	font-family: NotoTraditionalNushu-Regular;
+}
+bold
+{
+	font-family: NotoTraditionalNushu-Bold;
+}
