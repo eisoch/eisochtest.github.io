@@ -17,7 +17,9 @@
 doc
 {
 	display: block;
-	font-size: 30pt;
+	font-size: 20pt;
+	letter-spacing: 5px;
+	line-height: 50pt;
 }
 br
 {
