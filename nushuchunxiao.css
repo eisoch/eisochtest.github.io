@@ -19,6 +19,11 @@ doc
 	display: block;
 	font-size: 20pt;
 }
+line
+{
+	display: block;
+	text-align: center;
+}
 light
 {
 	font-family: NotoTraditionalNushu-Light;
