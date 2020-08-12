@@ -19,6 +19,15 @@ doc
 	display: block;
 	font-size: 20pt;
 }
+br
+{
+	display: block;
+}
+title
+{
+	display: block;
+	text-align: center;
+}
 line
 {
 	display: block;
