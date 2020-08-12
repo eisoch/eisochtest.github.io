@@ -2,23 +2,23 @@
 <?xml-stylesheet type="text/css" href="nushuchunxiao.css"?>
 <doc>
 <light>
-𛊌𛇾𛆳𛊵𛅿
-𛈞𖿡𛇷𛊹𛋒
-𛇩𛇤𛋆𛅶𛉂
-𛈣𛋝𛆍𛈁𛆿
+<line>𛊌𛇾𛆳𛊵𛅿</line>
+<line>𛈞𖿡𛇷𛊹𛋒</line>
+<line>𛇩𛇤𛋆𛅶𛉂</line>
+<line>𛈣𛋝𛆍𛈁𛆿</line>
 </light>
 <br> </br>
 <regular>
-𛊌𛇾𛆳𛊵𛅿
-𛈞𖿡𛇷𛊹𛋒
-𛇩𛇤𛋆𛅶𛉂
-𛈣𛋝𛆍𛈁𛆿
+<line>𛊌𛇾𛆳𛊵𛅿</line>
+<line>𛈞𖿡𛇷𛊹𛋒</line>
+<line>𛇩𛇤𛋆𛅶𛉂</line>
+<line>𛈣𛋝𛆍𛈁𛆿</line>
 </regular>
 <br> </br>
 <bold>
-𛊌𛇾𛆳𛊵𛅿
-𛈞𖿡𛇷𛊹𛋒
-𛇩𛇤𛋆𛅶𛉂
-𛈣𛋝𛆍𛈁𛆿
+<line>𛊌𛇾𛆳𛊵𛅿</line>
+<line>𛈞𖿡𛇷𛊹𛋒</line>
+<line>𛇩𛇤𛋆𛅶𛉂</line>
+<line>𛈣𛋝𛆍𛈁𛆿</line>
 </bold>
 </doc>
